@@ -1,0 +1,6 @@
+{
+  "name": "ReForm AI Studio",
+  "description": "En modern AI-byråportfölj för hälsa, träning och välmående. Gymnasie-slutprojekt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
